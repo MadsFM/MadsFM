@@ -3,7 +3,7 @@
 <h3 align="center">I'm passionated computer science student. Graduating in 2026</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madsfmmm&label=Profile%20views&color=0e75b6&style=flat" alt="madsfmmm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madsfm&label=Profile%20views&color=0e75b6&style=flat" alt="madsfm" /> </p>
 
 - 🔭 I’m currently working on [School project](https://github.com/thom625b/Compulsory-Assignment1-3Semester)
 
