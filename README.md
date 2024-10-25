@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madsfm&label=Profile%20views&color=0e75b6&style=flat" alt="madsfm" /> </p>
 
-- 🔭 I’m currently working on [School project](https://github.com/thom625b/Compulsory-Assignment1-3Semester)
-- 👯 My hobby project is in progress, no idea where it ends [Hitchhiker](https://github.com/MadsFM/Hitchhiker)
+
 - 🌱 I’m currently learning **C#, React, Vite, JS, TS**
 
 
