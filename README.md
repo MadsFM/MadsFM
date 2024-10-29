@@ -5,6 +5,7 @@
 
 
 - 🌱 I’m currently learning **C#, React, Vite, JS, TS**
+- 🖥️ Currently working on this project, nothing special yet. https://github.com/MadsFM/Astral_Odyssey.git
 
 
 
