@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **C#, React, Vite, JS, TS**
-- This is my school 3 semester exam project: https://github.com/thom625b/DeadPigeonsGame.git
+- 🖥️ This is my school 3 semester exam project: https://github.com/thom625b/DeadPigeonsGame.git
 - 🖥️ Working on this project as a hobby, nothing special yet. https://github.com/MadsFM/Astral_Odyssey.git
 
 
