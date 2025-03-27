@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madsfm&label=Profile%20views&color=0e75b6&style=flat" alt="madsfm" /> </p>
 
 
-- 🌱 I’m currently learning **C#, React, Vite, JS, TS**
+- 🌱 I’m currently learning **C#, React, Vite, JS, TS and Python**
 - 🖥️ This is my school 3 semester exam project: https://github.com/thom625b/DeadPigeonsGame.git
 - 🖥️ Working on this project as a hobby, nothing special yet. https://github.com/MadsFM/Astral_Odyssey.git
 
